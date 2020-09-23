@@ -1,0 +1,28 @@
+{
+  "name": "email-bot",
+  "version": "1.0.0",
+  "description": "email scraper bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stacysealky/email-bot.git"
+  },
+  "keywords": [
+    "email",
+    "bot"
+  ],
+  "author": "Stacy Sealky Lee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stacysealky/email-bot/issues"
+  },
+  "homepage": "https://github.com/stacysealky/email-bot#readme",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "csv-parser": "^2.3.3",
+    "nodemon": "^2.0.4"
+  }
+}
